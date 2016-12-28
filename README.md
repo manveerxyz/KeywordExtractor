@@ -9,4 +9,4 @@ Run this command:
 ```
 python keywordextractor.py [directory]
 ```
-`[service]` : Put your directory path containing subtitle files here <br>
+`[directory]` : Put your directory path containing subtitle files here <br>
