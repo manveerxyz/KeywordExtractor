@@ -1,4 +1,5 @@
 # KeywordExtractor
+Developed during GCI 2016. <br>
 Extracts keywords from subtitle files.
 
 Uses modified files from https://github.com/zelandiya/RAKE-tutorial
